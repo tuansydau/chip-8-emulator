@@ -1,6 +1,12 @@
 # Binaries
 sdl_test
 
+# Cache files
+.cache
+
+# Build folder
+build/
+
 # Prerequisites
 *.d
 

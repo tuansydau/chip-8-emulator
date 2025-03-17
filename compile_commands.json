@@ -1,0 +1,16 @@
+[
+  {
+    "arguments": [
+      "/usr/bin/g++",
+      "-c",
+      "-I/opt/homebrew/include/SDL2",
+      "-D_THREAD_SAFE",
+      "-o",
+      "sdl_test",
+      "main.cpp"
+    ],
+    "directory": "/Users/tuandau/Projects/funsies/chip-8-emulator",
+    "file": "/Users/tuandau/Projects/funsies/chip-8-emulator/main.cpp",
+    "output": "/Users/tuandau/Projects/funsies/chip-8-emulator/sdl_test"
+  }
+]
